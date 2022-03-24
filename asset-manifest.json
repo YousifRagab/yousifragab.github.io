@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99546be3.css",
+    "main.js": "/static/js/main.d982ea38.js",
+    "static/js/787.1ff9d3a2.chunk.js": "/static/js/787.1ff9d3a2.chunk.js",
+    "static/media/IntenseNationLogo.png": "/static/media/IntenseNationLogo.efed1a9f0931c5ebda23.png",
+    "index.html": "/index.html",
+    "main.99546be3.css.map": "/static/css/main.99546be3.css.map",
+    "main.d982ea38.js.map": "/static/js/main.d982ea38.js.map",
+    "787.1ff9d3a2.chunk.js.map": "/static/js/787.1ff9d3a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99546be3.css",
+    "static/js/main.d982ea38.js"
+  ]
+}
